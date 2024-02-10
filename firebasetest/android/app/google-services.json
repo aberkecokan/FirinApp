@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "492423915935",
+    "firebase_url": "https://evirgenotomasyon-a3067-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "evirgenotomasyon-a3067",
+    "storage_bucket": "evirgenotomasyon-a3067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492423915935:android:602030535c3676ff3ff5aa",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pJGsSQcj3Uy_tT3oC0BHd0foQTt5fdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAW32CXpr_htyAlMl4iy6YbYKcMZ9v1WaQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>492423915935</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.paketleme.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>evirgenotomasyon-a3067</string>
+	<key>STORAGE_BUCKET</key>
+	<string>evirgenotomasyon-a3067.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:492423915935:ios:ab5fed873fdaa4bb3ff5aa</string>
+	<key>DATABASE_URL</key>
+	<string>https://evirgenotomasyon-a3067-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
